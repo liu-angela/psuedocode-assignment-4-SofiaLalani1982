@@ -10,21 +10,23 @@ The cards with the number or symbol or face of 9, 10, Jack, or Queen will always
 The card King, can act as any card 
 
 THE SETUP:
-The dealer distributes a standard pack of 52 cards with each player getting 8 cards in total
-Each player arranges their cards in 2 rows of 4 cards
-The remaining cards are set in the middle in reach within each person facedown
+The dealer distributes a standard pack of 52 cards, shuffled, with each player getting 8 cards in total
+Each player arranges their cards in 2 rows of 4 cards, facedown, without looking at them
+the top left to top right are numbered 1-4, and the bottom left to bottom right are numbered 5-8
+The remaining cards are set in the middle within reach of each person, facedown
 The dealer flips one card over faceup, leaving it in the middle
 Everytime someone has all of their cards flipped over, they win the round
 The person who won that round will get one less card when the cards are redistributed 
 
 ROUND 1:
-The player to the left of the dealer can either use that card to substitute one of their cards if it is a number 1-8 or King. Whatever card he substituted will be thrown to "Trash" (the middle)
+The player to the left of the dealer can either use that card to substitute one of their cards if it is a number 1-8 or King. 
+the card he/she substitutes will be thrown to "Trash" (the middle)
 The player to the left of them will go until one person has all of their cards flipped over in ascending order
 
 ROUND 2: 
-Everybody is redistributed 8 cards excpet the winner; He only recieves 7
+Everybody is redistributed 8 cards except the winner; He only recieves 7
 The player who won the last round will go first
-The objective is still to flip over all the cards in ascending order with substituting 
+The objective is still to flip over all the cards in ascending order with substitution 
 
 WHEN DOES THE GAME END?
 The game ends when one person has won 8 rounds and has no cards remaining 
